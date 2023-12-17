@@ -1,0 +1,40 @@
+True Shooting Percentage (TS%)
+we make better TS stat
+
+
+2P: points from 2 pointers
+3P: points from 3 pointers
+SF: points from shot foul free-throws
+TF: points from team fouls free-throws
+
+2PA: 2 pointers field goal attempts
+3PA: 3 pointers field goal attempts
+TFA: free-throws attempts from team fouls
+
+
+0.5(3P + 2P + FS + TF) / (SF + TFA)
+
+
+
+
+
+
+point contributions, assist point and own points
+
+
+make Percentage using turnovers
+
+facildated points, points scored not assisted and points from assists 
+same as point contributions for Percentage
+
+
+Michael Jordan (1988-89)
+61.4% true shootong
+32.5 points
+8.0 rebounds
+8.0 assists 
+81 games
+
+KD and curry are also good
+Jokic aswell
+ Shai good iso

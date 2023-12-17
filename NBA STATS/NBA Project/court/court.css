@@ -1,0 +1,65 @@
+#court-container {
+    position: relative;
+    top: 0;
+    left: 0;
+    height: fit-content;
+    width: fit-content;
+}
+
+#court {
+    position: relative;
+    top: 0;
+    left: 0;
+    border: 0;
+    height: 700px;
+    /*height: 500px; */
+    /* 1818.2 x 1018.2 */ 
+    /* 1709.1 x 909.1 */
+
+    /* 109.1 x 109.1 */
+    /* 6.00044 x 10.7149872 */
+}
+  
+  
+.marker {
+    position: absolute; 
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: .8%;/* 1%*/
+}
+
+
+img.marker.madeshot {
+    content: url("/court/images/madeshot.svg")
+}
+
+.marker.missedshot {
+    content: url("/court/images/missedshot.svg")
+}
+
+.marker.block {
+    content: url("/court/images/block.svg")
+}
+
+.marker.steal {
+    content: url("/court/images/steal.svg")
+}
+
+
+.marker.orebound {
+    content: url("/court/images/orebound.svg")
+}
+
+
+.marker.drebound {
+    content: url("/court/images/drebound.svg")
+}
+
+.marker.assist {
+    content: url("/court/images/assist.svg")
+}
+
+.marker.turnover {
+    content: url("/court/images/assist.svg")
+}
